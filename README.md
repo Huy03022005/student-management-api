@@ -41,3 +41,25 @@ project/
 | POST | /students | Thêm sinh viên |
 | PUT | /students/<id> | Cập nhật sinh viên |
 | DELETE | /students/<id> | Xóa sinh viên |
+
+## How to Run
+
+### 1. Clone repository
+
+git clone https://github.com/Huy03022005/student-management-api.git
+
+### 2. Install Flask
+
+pip install flask
+
+### 3. Initialize database
+
+python init_db.py
+
+### 4. Run application
+
+python app.py
+
+The API will run at:
+
+http://127.0.0.1:5000
