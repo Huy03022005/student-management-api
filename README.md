@@ -17,8 +17,8 @@ REST API quản lý sinh viên được xây dựng bằng Flask và SQLite.
 - Cập nhật sinh viên
 - Xóa sinh viên
 - Validation dữ liệu
-
 ## Project Structure
+```python
 
 project/
 ├── app.py
@@ -31,6 +31,7 @@ project/
 ├── .gitignore
 └── README.md
 
+```
 ## API Endpoints
 
 | Method | Endpoint | Mô tả |
