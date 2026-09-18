@@ -69,3 +69,5 @@ http://127.0.0.1:5000
 
 ## Git Branch Workflow
 Đây là thay đổi được thực hiện trên feature-api-doc.
+## Login
+Chức năng đăng nhập người dùng.
