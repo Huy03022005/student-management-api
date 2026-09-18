@@ -64,6 +64,8 @@ The API will run at:
 
 http://127.0.0.1:5000
 
+<<<<<<< HEAD
+=======
 ## Branch Test
 đây là thay đổi trên feature test
 
@@ -71,3 +73,4 @@ http://127.0.0.1:5000
 Đây là thay đổi được thực hiện trên feature-api-doc.
 ## Login
 Chức năng đăng nhập người dùng.
+>>>>>>> origin/main
